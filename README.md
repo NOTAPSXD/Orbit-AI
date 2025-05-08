@@ -1,7 +1,7 @@
 # 🚀 Orbit AI — Multi-Server Discord AI Bot
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Discord](https://img.shields.io/discord/123456789012345678?label=Join%20Support&logo=discord&color=7289DA)](https://your-discord-invite.link)
+[![Discord](https://img.shields.io/discord/1361584465645928549?label=Join%20Support&logo=discord&color=7289DA)](https://dsc.gg/codexsupport)
 
 Orbit AI is a powerful multi-server AI chatbot designed for Discord. It lets users talk to an AI directly with slash commands, set up AI auto-responses in specific channels, and regenerate previous replies — all in a smooth, server-friendly way.
 
@@ -25,9 +25,6 @@ Orbit AI is a powerful multi-server AI chatbot designed for Discord. It lets use
 
 ---
 
-## 📸 Screenshots (optional)
-
-> Add screenshots or GIFs of your bot in action here.
 
 ---
 
@@ -40,28 +37,7 @@ By using Orbit AI, you agree to our [Terms of Use](TERMS.md) and [Privacy Policy
 ## 👥 Community & Support
 
 Need help or have suggestions?  
-👉 [Join our Discord Server](https://your-discord-invite.link)
-
----
-
-## 📂 Repo Structure (optional)
-
-
-
-orbit-ai/
-├── bot/
-│   ├── main.py
-│   └── commands/
-│       ├── chat.py
-│       ├── setupchannel.py
-│       ├── regenerate.py
-│       └── help.py
-├── README.md
-├── LICENSE
-├── TERMS.md
-├── PRIVACY.md
-
-
+👉 [Join our Discord Server]([https://your-discord-invite.link](https://discord.com/oauth2/authorize?client_id=1354492511141368028))
 
 ---
 
